@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-06-29T19:00:01.157195",
+        "user": "Rani",
+        "category": "Water",
+        "message": "water supply not available in sector noida sector 5"
+    },
+    {
+        "timestamp": "2025-06-29T19:00:35.106632",
+        "user": "Rani",
+        "category": "Water",
+        "message": "water supply not available in noida sector 5"
+    },
+    {
+        "timestamp": "2025-06-29T19:04:41.320310",
+        "user": "Durgadevi",
+        "category": "Waste Management",
+        "message": "\"Recycling bins are often full. Need better waste pickup schedules.\""
+    },
+    {
+        "timestamp": "2025-06-29T19:07:03.668274",
+        "user": "Surya",
+        "category": "Energy",
+        "message": "\"Street lights use solar now which is good. But energy outages still happen often.\""
+    },
+    {
+        "timestamp": "2025-06-29T19:08:57.532195",
+        "user": "Manikanta",
+        "category": "Public Transport",
+        "message": "\"Public transport is improving, but buses could be more punctual.\""
+    }
+]
